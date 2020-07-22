@@ -1,0 +1,1 @@
+Para mander uma pasta vazia quando subir para o github/bitbucket/etc crie uma arquivo com o nome .gitkeep dentro dessas pastas
