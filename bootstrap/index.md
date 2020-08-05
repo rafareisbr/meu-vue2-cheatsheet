@@ -1,3 +1,5 @@
+Resoluções Padrão
+
 * Extra small devices (portrait phones, less than 576px)
 * No media query for `xs` since this is the default in Bootstrap
 
